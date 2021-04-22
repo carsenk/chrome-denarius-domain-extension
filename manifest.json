@@ -1,0 +1,15 @@
+{
+	"background": {
+		"scripts": [ "dns.js" ]
+	},
+	"icons": {
+		"128": "logo.png"
+	},
+	"manifest_version": 2,
+	"name": "Denarius Name Extension",
+	"short_name": "Denarius Name Extension",
+	"permissions": [ "proxy", "webRequest", "webRequestBlocking", "*://*/*" ],
+	"version": "0.0.1",
+	"description" : "An extension that enables surfing .bitcoin, .btc, .d, .king, .sys, .denarii, .ipfs sites, a peer-to-peer domain system powered by the Denarius blockchain.",
+	"homepage_url": "https://denarius.io/"
+}
